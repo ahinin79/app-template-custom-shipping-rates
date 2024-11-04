@@ -1,6 +1,6 @@
 {
   "name": "@wix/app-template-custom-shipping-rates",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "scripts": {
     "e2e": "npx playwright test",
@@ -19,6 +19,7 @@
     "@wix/ecom": "^1.0.603",
     "@wix/sdk": "^1.10.2",
     "@wix/wix-ui-icons-common": "^3.16.0",
+    "immutable": "^5.0.0",
     "jsonwebtoken": "^9.0.2",
     "next": "14.0.4",
     "react": "^18",
